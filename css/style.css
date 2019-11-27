@@ -1,0 +1,39 @@
+.SlotImages {
+    display:grid,inline-grid;
+    width: 50%;
+    position:absolute;
+    left:43%;
+    top:25%; 
+
+  }
+
+  .Start{
+    display: grid;
+    width: 50%;
+    position:absolute;
+    left:50%;
+    top:5%;
+
+  }
+
+  .picture{
+    position:absolute;
+    top:35%;
+    left:38%;
+  }
+
+  #picture{
+    visibility:hidden;
+  }
+  h3{
+    position:absolute;
+    font-family:'Helvetica';
+    top:5%;
+    left:65%;
+  }
+  p{
+    position:absolute;
+    font-family:'Helvetica';
+    top:10%;
+    left:69%;
+  }
